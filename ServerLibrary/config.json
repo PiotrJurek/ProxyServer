@@ -1,0 +1,8 @@
+{
+  "ServerID": "it's me, your server",
+  "ListenAddresses": [ "localhost", "127.0.0.1", "192.168.1.2" ],
+  "ListenPort": 1234,
+  "TimeOut": 3,
+  "SizeLimit": 1048576,
+  "AllowedIPAddresses": [ "any" ]
+}
